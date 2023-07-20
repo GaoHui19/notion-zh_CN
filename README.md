@@ -110,7 +110,7 @@ Notion 已经有了中文语料，让用户能够提前使用中文语料
 
 ## 安卓端
 
-- 下载apk：[https://github.com/Reamd7/notion-zh_CN/blob/main/apk/Notion_0.6.1122.beta(7122)_zh_cn.apk](https://github.com/Reamd7/notion-zh_CN/blob/main/apk/Notion_0.6.1122.beta(7122)_zh_cn.apk)
+- 下载apk：[https://github.com/Reamd7/notion-zh_CN/blob/main/apk/Notion_0.6.1122.beta(7122)_zh_cn.apk](https://github.com/GaoHui19/notion-zh_CN/blob/main/apk/Notion_0.6.1122.beta(7122)_zh_cn.apk)
 
 # 大家可以做什么？
 
